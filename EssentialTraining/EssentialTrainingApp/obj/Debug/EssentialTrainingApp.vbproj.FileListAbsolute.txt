@@ -1,0 +1,4 @@
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\EssentialTrainingApp.vbproj.AssemblyReference.cache
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\EssentialTrainingApp.Resources.resources
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\EssentialTrainingApp.vbproj.GenerateResource.cache
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\EssentialTrainingApp.vbproj.CoreCompileInputs.cache

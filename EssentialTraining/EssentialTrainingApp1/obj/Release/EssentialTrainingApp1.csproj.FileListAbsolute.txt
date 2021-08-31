@@ -1,0 +1,11 @@
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp1\bin\Release\NLog.config
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp1\bin\Release\EssentialTrainingApp1.exe.config
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp1\bin\Release\EssentialTrainingApp1.exe
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp1\bin\Release\EssentialTrainingApp1.pdb
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp1\bin\Release\NLog.dll
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp1\bin\Release\NLog.xml
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp1\obj\Release\EssentialTrainingApp1.csproj.AssemblyReference.cache
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp1\obj\Release\EssentialTrainingApp1.csproj.CoreCompileInputs.cache
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp1\obj\Release\EssentialTrainingApp1.csproj.CopyComplete
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp1\obj\Release\EssentialTrainingApp1.exe
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp1\obj\Release\EssentialTrainingApp1.pdb

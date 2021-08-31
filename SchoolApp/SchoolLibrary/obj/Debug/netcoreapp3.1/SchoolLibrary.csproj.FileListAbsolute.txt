@@ -1,0 +1,10 @@
+C:\Users\laryder\source\repos\SchoolApp\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.deps.json
+C:\Users\laryder\source\repos\SchoolApp\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.dll
+C:\Users\laryder\source\repos\SchoolApp\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.pdb
+C:\Users\laryder\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.csproj.AssemblyReference.cache
+C:\Users\laryder\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laryder\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\laryder\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.AssemblyInfo.cs
+C:\Users\laryder\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\laryder\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.dll
+C:\Users\laryder\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.pdb

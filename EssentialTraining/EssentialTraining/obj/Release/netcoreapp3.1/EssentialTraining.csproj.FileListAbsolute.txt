@@ -1,0 +1,10 @@
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTraining\bin\Release\netcoreapp3.1\EssentialTraining.deps.json
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTraining\bin\Release\netcoreapp3.1\EssentialTraining.dll
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTraining\bin\Release\netcoreapp3.1\EssentialTraining.pdb
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTraining\obj\Release\netcoreapp3.1\EssentialTraining.csproj.AssemblyReference.cache
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTraining\obj\Release\netcoreapp3.1\EssentialTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTraining\obj\Release\netcoreapp3.1\EssentialTraining.AssemblyInfoInputs.cache
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTraining\obj\Release\netcoreapp3.1\EssentialTraining.AssemblyInfo.cs
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTraining\obj\Release\netcoreapp3.1\EssentialTraining.csproj.CoreCompileInputs.cache
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTraining\obj\Release\netcoreapp3.1\EssentialTraining.dll
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTraining\obj\Release\netcoreapp3.1\EssentialTraining.pdb

@@ -1,0 +1,7 @@
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp1\bin\Debug\EssentialTrainingApp1.exe.config
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp1\bin\Debug\EssentialTrainingApp1.exe
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp1\bin\Debug\EssentialTrainingApp1.pdb
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp1\obj\Debug\EssentialTrainingApp1.csproj.AssemblyReference.cache
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp1\obj\Debug\EssentialTrainingApp1.csproj.CoreCompileInputs.cache
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp1\obj\Debug\EssentialTrainingApp1.exe
+C:\Users\laryder\source\repos\EssentialTraining\EssentialTrainingApp1\obj\Debug\EssentialTrainingApp1.pdb
